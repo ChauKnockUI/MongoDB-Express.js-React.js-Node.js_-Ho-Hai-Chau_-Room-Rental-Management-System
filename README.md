@@ -37,7 +37,7 @@ Tạo file `.env` trong thư mục `server` với nội dung:
 
 ```
 PORT=5000
-MONGO_URI=mongodb://localhost:27017/room-rental-system
+mongodb+srv://hohaichau963:<db_password>@cluster0.n1t2ypq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 ```
 
 ### 3. Chạy ứng dụng
